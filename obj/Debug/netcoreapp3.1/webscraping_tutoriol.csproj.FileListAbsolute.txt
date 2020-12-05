@@ -11,3 +11,6 @@ C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.As
 C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.dll
 C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.pdb
 C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.genruntimeconfig.cache
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.csproj.CopyComplete

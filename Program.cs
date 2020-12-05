@@ -1,4 +1,6 @@
 ﻿using System;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 
 namespace webscraping_tutoriol
 {
@@ -6,7 +8,16 @@ namespace webscraping_tutoriol
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IWebDriver driver = new ChromeDriver(@"C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1");
+            driver.Url = "https://www.google.com";
+
+            Console.WriteLine(driver.Title);
+            IWebElement textbox = driver.FindElement(By.Name("q"));
+            textbox.SendKeys("cat Pictures");
+
+            textbox.Submit();
+            Console.WriteLine(driver.Title);
+            driver.Quit();
         }
     }
 }
