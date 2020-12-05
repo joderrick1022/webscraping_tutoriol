@@ -1,0 +1,13 @@
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\webscraping_tutoriol.exe
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\webscraping_tutoriol.deps.json
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\webscraping_tutoriol.runtimeconfig.json
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\webscraping_tutoriol.runtimeconfig.dev.json
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\webscraping_tutoriol.dll
+C:\Projects\webscraping_tutoriol\bin\Debug\netcoreapp3.1\webscraping_tutoriol.pdb
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.csprojAssemblyReference.cache
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.csproj.CoreCompileInputs.cache
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.AssemblyInfoInputs.cache
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.AssemblyInfo.cs
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.dll
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.pdb
+C:\Projects\webscraping_tutoriol\obj\Debug\netcoreapp3.1\webscraping_tutoriol.genruntimeconfig.cache
